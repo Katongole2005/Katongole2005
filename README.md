@@ -36,23 +36,4 @@ From backend logic to deployment pipelines, I focus on creating solutions that a
 
 🌐 Let’s Connect
 <p align="center"> <a href="mailto:Shelvinjoe11@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a> <a href="https://bsky.app/profile/Katongole2005"><img src="https://skillicons.dev/icons?i=twitter" /></a> <a href="https://reddit.com/user/Ambitious-Roll-2188"><img src="https://skillicons.dev/icons?i=reddit" /></a> </p>
-✨ Why This Version Is Cooler
 
-✔ Cleaner layout
-✔ Animated typing header
-✔ Modern skill icons instead of badge overload
-✔ Dark “elite dev” aesthetic
-✔ Structured sections
-✔ Looks professional but still energetic
-
-If you want next-level cool, I can:
-
-🔥 Add a custom cyberpunk theme
-
-🎨 Make it minimal black & gold luxury style
-
-⚡ Add contribution graph animation snake
-
-🧠 Make it look like a terminal dashboard
-
-🚀 Turn it into a futuristic portfolio README
