@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m Katongole Shelvin Joel, a passionate developer building<br> practical web applications and system-based projects. <br>Skilled in PHP, MySQL, WordPress, Git, and Linux, I focus on <br>creating efficient, scalable solutions. Always <br>learning and improving, I aim to become a high-level <br>software engineer building impactful digital systems. 🚀
+I’m Katongole Shelvin Joel, a passionate developer building<br> practical web applications and system-based projects. Skilled in PHP, MySQL, WordPress, Git, and Linux, I focus on creating efficient, scalable solutions. Always <br>learning and improving, I aim to become a high-level software engineer building impactful digital systems. 🚀
 
 
 ## 🌐 Socials:
