@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="430" viewBox="0 0 1200 430" role="img" aria-labelledby="title"><title id="title">Selected public project: MovieBay. React and TypeScript media application with search, profiles and admin routes. Decorative project artwork.</title><defs><style>text{font-family:Arial,Helvetica,sans-serif}.mono{font-family:Consolas,monospace;letter-spacing:2px}.spin{transform-origin:900px 302px;animation:rotate 48s linear infinite}.drift{animation:fade 5s ease-in-out infinite}@keyframes rotate{to{transform:rotate(360deg)}}@keyframes fade{50%{opacity:.35}}@media(prefers-reduced-motion:reduce){.spin,.drift{animation:none}}</style><linearGradient id="metal" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#f1f0df"/><stop offset=".4" stop-color="#9d9f83"/><stop offset=".55" stop-color="#e6ff75"/><stop offset="1" stop-color="#434c2d"/></linearGradient><radialGradient id="haze"><stop stop-color="#dfff79" stop-opacity=".12"/><stop offset="1" stop-color="#dfff79" stop-opacity="0"/></radialGradient></defs>
+<rect width="1200" height="430" rx="18" fill="#ecebdc"/>
+<text x="38" y="43" font-size="12" fill="#55594a" class="mono">01 / SELECTED PUBLIC REPOSITORY</text>
+<text x="38" y="122" font-size="65" fill="#151810" font-weight="700" letter-spacing="-3">MovieBay</text>
+<text x="40" y="160" font-size="18" fill="#55594a" >A media app, across the stack.</text>
+<text x="40" y="211" font-size="16" fill="#34392b" >Browse and search. Account profiles.</text>
+<text x="40" y="237" font-size="16" fill="#34392b" >An admin area behind protected routes.</text>
+<path d="M40 274H505" stroke="#c4c6b6"/>
+<text x="40" y="306" font-size="12" fill="#34392b" class="mono">REACT / TYPESCRIPT / VITE</text>
+<text x="40" y="332" font-size="12" fill="#34392b" class="mono">TAILWIND CSS / SUPABASE</text>
+<rect x="40" y="363" width="231" height="36" rx="18" fill="#151810"/>
+<text x="57" y="386" font-size="12" fill="#e6ff91" class="mono">EXPLORE THE SOURCE  ↗</text>
+<rect x="574" y="26" width="600" height="378" rx="13" fill="#151810"/>
+<path d="M574 70H1174" stroke="#383d2e"/><text x="596" y="54" font-size="11" fill="#b0b89b" class="mono">PROJECT STUDY / 001</text>
+<text x="1062" y="54" font-size="11" fill="#dfff79" class="mono">MOVIEBAY</text>
+<circle cx="875" cy="222" r="112" fill="none" stroke="#dfff79" stroke-width="1"/>
+<circle cx="875" cy="222" r="141" fill="none" stroke="#616b46" stroke-dasharray="2 8"/>
+<circle cx="875" cy="222" r="91" fill="none" stroke="#474e37"/>
+<path d="M847 174L924 222L847 270Z" fill="#dfff79"/>
+<path d="M611 125H699M611 125V170M1050 125H1138V170M611 315V338H699M1050 338H1138V315" fill="none" stroke="#727b59"/>
+<rect x="627" y="361" width="16" height="5" rx="2" fill="#dfff79"/><rect x="654" y="361" width="16" height="5" rx="2" fill="#dfff79"/><rect x="681" y="361" width="16" height="5" rx="2" fill="#dfff79"/><rect x="708" y="361" width="16" height="5" rx="2" fill="#dfff79"/><rect x="735" y="361" width="16" height="5" rx="2" fill="#dfff79"/><rect x="762" y="361" width="16" height="5" rx="2" fill="#dfff79"/><rect x="789" y="361" width="16" height="5" rx="2" fill="#dfff79"/><rect x="816" y="361" width="16" height="5" rx="2" fill="#dfff79"/><rect x="843" y="361" width="16" height="5" rx="2" fill="#dfff79"/><rect x="870" y="361" width="16" height="5" rx="2" fill="#424a32"/><rect x="897" y="361" width="16" height="5" rx="2" fill="#424a32"/><rect x="924" y="361" width="16" height="5" rx="2" fill="#424a32"/><rect x="951" y="361" width="16" height="5" rx="2" fill="#424a32"/><rect x="978" y="361" width="16" height="5" rx="2" fill="#424a32"/><rect x="1005" y="361" width="16" height="5" rx="2" fill="#424a32"/><rect x="1032" y="361" width="16" height="5" rx="2" fill="#424a32"/><rect x="1059" y="361" width="16" height="5" rx="2" fill="#424a32"/><rect x="1086" y="361" width="16" height="5" rx="2" fill="#424a32"/>
+<text x="600" y="393" font-size="9" fill="#909b7d" class="mono">ILLUSTRATIVE ARTWORK · SEE REPOSITORY FOR IMPLEMENTATION</text></svg>
